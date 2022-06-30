@@ -1,0 +1,16 @@
+Library/
+obj/
+Temp/
+build/
+Assets/SceneDependencyCache/
+Assets/StreamingAssets/
+Logs/
+.idea
+.git
+.github
+.nuget
+.DS_Store
+*.sln
+*.csproj
+Packages/com.github.homuler.mediapipe/Runtime/Plugins/Android/
+Packages/com.github.homuler.mediapipe/Runtime/Plugins/iOS/

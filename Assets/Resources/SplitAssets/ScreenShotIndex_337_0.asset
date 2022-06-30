@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 520caf21e7764fa2a4a64962e70c3e1f, type: 3}
+  m_Name: ScreenShotIndex_337_0
+  m_EditorClassIdentifier: 
+  strId: ScreenShotIndex_337_0
+  pointDir:
+  - {x: -71.3213, y: 49.204876, z: 0}
+  - {x: -69.76263, y: -41.918873, z: 0}
+  - {x: 25.351715, y: 38.630173, z: 0}
+  - {x: 31.510147, y: -48.591946, z: 0}
+  - {x: -72.29574, y: -202.3401, z: 0}
+  - {x: 39.55959, y: -189.8296, z: 0}
+  - {x: -55.796124, y: -119.37123, z: 0}
+  - {x: 11.167735, y: -117.584465, z: 0}
+  angle:
+  - 4.2819424
+  - 6.0468855
+  - 9.226861
+  - 6.13814
+  - 165.61852
+  - 154.555
+  - 102.77583
+  - 109.926056
