@@ -1,39 +1,40 @@
-##JustDacneDemo
+##Dancefit Android Demo
 
-谷歌浏览器 方便查看 markdown : https://www.jianshu.com/p/f50d670972fb
+Use Chrome for better view experience markdown : https://www.jianshu.com/p/f50d670972fb
 
-#编辑器相关
-* 1 打开 JustDance 场景 运行
-* 2 按K键录制视频某一帧作为识别图片
-* 3 查看目录文件想对应图片是否被存储
+#About Editting
+* 1 Open JustDance Scence Run
+* 2 Press k to use one screenshot from recording
+* 3 view corresponding picture in catolog folder to check if correct image being saved
 
 * ![img.png](img.png)
-* 4 运行 JustDanceEditor 场景
-* 5 打开摄像机设置
+* 4 Run JustDanceEditor Scence
+* 5 Open camera setting
 * ![img_1.png](img_1.png)
-* 选择需要识别的图片 然后 按 exit
+* Choose picture to be identifed and then hit exit
 * ![img_2.png](img_2.png)
-* 等待 姿势被识别
+* Wait for motion detection
 * ![img_3.png](img_3.png)
-* 此时找到烘焙动作按钮 点击(一定要在运行时)
+* Find action button at the moment and Hit(Must be during running)
 * ![img_4.png](img_4.png)
-* 完成后找到录制的资源 名字对应录制完成
+* Find recording resources upon finish, name to correspond recording to end
 * ![img_5.png](img_5.png)
 
-如需要重新录制 SplitAssets路径下的可删除 不影响
-重复录制同一帧会覆盖资源
+If re-record is required, Path under SplitAsssets can be deleted, no affect
+Re-record the same action will rewrite resources
 
-#运行demo
 
-打开 JustDance 场景 运行
+#Run demo
+
+Open JustDance Scence Run
 
 ![img_6.png](img_6.png)
- 右下进度条显示 录制的帧所占争端视频的位置
+Lower right corner display, recording frames occupying video position
 ![img_7.png](img_7.png)
-左上角显示 对比的pose的匹配度
+upper left corner display, comparing the posture matching level
 
-#打包相关
-*使用的unity版本为 2021.3.4f1 或者 2021.3.4f1c1
+#packaging related
+*Unity version is 2021.3.4f1 or 2021.3.4f1c1
 
-#切换安卓平台经常打包即可 所有设置已经有初始值
+#Switch android platform can often use for packaging, All setting will be defaulted to original values
 ![img_8.png](img_8.png)
